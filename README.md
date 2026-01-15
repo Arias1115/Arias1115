@@ -1,9 +1,6 @@
 # Hola, mi nombre es Juan José Arias Ceballos 👋
 ### Cuenta personal, estudiante de Bioingeniería
 
-<p align="center">
-  <img src="https://proyectoinnpulsa-udea.co/udea_innpulsa_zasca/images/logo_udea_simplificado_verde.png" alt="Mi foto de perfil" width="400" style="margin-top: 500px; margin-bottom:        500px;">
-</p>
 
 🎓 Estudiante de Bioingeniería en la Universidad de Antioquia | 📍Apartadó, Antioquia
 
