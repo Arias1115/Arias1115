@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, mi nombre es Juan José Arias Ceballos 👋
+### Cuenta personal, estudiante de Bioingeniería
 
-<!--
-**Arias1115/Arias1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://proyectoinnpulsa-udea.co/udea_innpulsa_zasca/images/logo_udea_simplificado_verde.png" alt="Mi foto de perfil" width="400" style="margin-top: 500px; margin-bottom:        500px;">
+</p>
 
-Here are some ideas to get you started:
+🎓 Estudiante de Bioingeniería en la Universidad de Antioquia | 📍Apartadó, Antioquia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apasionado por la ciencia, la tecnología y su aplicación en la salud. Explorando el mundo de la programación, la electrónica y el análisis de datos desde una mirada bioingenieril.
+
+## Contacto:
+
+[![Email](https://img.shields.io/badge/juan.arias.c11@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juan.arias.c11@gmail.com)
+
